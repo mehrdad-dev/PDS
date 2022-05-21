@@ -21,7 +21,7 @@ You can access to dataset from [Kaggle website](https://www.kaggle.com/datasets/
 ## Notebook
 Run this notebook on Google Colab and test on proposed dataset.
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/mehrdad-dev/SBO/blob/master/notebooks/search_objects_on_images.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/mehrdad-dev/PDS/blob/main/notebooks/Parkinson_detection.ipynb)
 
 
 ## Dataset samples
