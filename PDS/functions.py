@@ -109,24 +109,24 @@ def evaluate(model, data_loader: DataLoader):
     # no_grad() tells torch not to keep in memory the whole computational graph (it's more lightweight this way)
     model.eval()
     with torch.no_grad():
-        for episode_index, (
-            support_images,
-            support_labels,
-            query_images,
-            query_labels,
-            class_ids,
-        ) in tqdm(enumerate(data_loader), total=len(data_loader)):
+        with tqdm(enumerate(data_loader), total=len(data_loader)) as tqdm_train:
+            for episode_index, (
+                support_images,
+                support_labels,
+                query_images,
+                query_labels,
+                _,
+            ) in tqdm_train:
+                correct, total = evaluate_on_one_task(model, support_images,
+                                    support_labels, query_images, query_labels)
 
-            correct, total = evaluate_on_one_task(
-                support_images, support_labels, query_images, query_labels
-            )
-
-            total_predictions += total
-            correct_predictions += correct
+                total_predictions += total
+                correct_predictions += correct
 
     print(
         f"Model tested on {len(data_loader)} tasks. Accuracy: {(100 * correct_predictions/total_predictions):.2f}%"
     )
+
 
 def fit(
     model,
