@@ -1,0 +1,10 @@
+{
+    "class_names": [
+        "parkinson",
+        "healthy"
+    ],
+    "class_roots": [
+        "/content/Detecting-Parkinson-Disease/dataset/wave/testing/parkinson",
+        "/content/Detecting-Parkinson-Disease/dataset/wave/testing/healthy"
+    ]
+}
