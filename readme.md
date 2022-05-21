@@ -26,9 +26,9 @@ Run this notebook on Google Colab and test on proposed dataset.
 
 ## Dataset samples
 
-![Mehrdad Mohammadian](https://raw.githubusercontent.com/mehrdad-dev/PDS/main/assets/assests/1.png)
-![Mehrdad Mohammadian](https://raw.githubusercontent.com/mehrdad-dev/PDS/main/assets/assests/2.png)
-![Mehrdad Mohammadian](https://raw.githubusercontent.com/mehrdad-dev/PDS/main/assets/assests/3.png)
+![Mehrdad Mohammadian](https://raw.githubusercontent.com/mehrdad-dev/PDS/main/assets/1.png)
+![Mehrdad Mohammadian](https://raw.githubusercontent.com/mehrdad-dev/PDS/main/assets/2.png)
+![Mehrdad Mohammadian](https://raw.githubusercontent.com/mehrdad-dev/PDS/main/assets/3.png)
 
 
 
