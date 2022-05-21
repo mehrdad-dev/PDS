@@ -4,7 +4,7 @@
         "healthy"
     ],
     "class_roots": [
-        "/content/Detecting-Parkinson-Disease/dataset/wave/testing/parkinson",
-        "/content/Detecting-Parkinson-Disease/dataset/wave/testing/healthy"
+        "/content/PDS/dataset/wave/testing/parkinson",
+        "/content/PDS/dataset/wave/testing/healthy"
     ]
 }
