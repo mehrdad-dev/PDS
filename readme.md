@@ -24,6 +24,14 @@ Run this notebook on Google Colab and test on proposed dataset.
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/mehrdad-dev/PDS/blob/main/notebooks/Parkinson_detection.ipynb)
 
 
+## Results
+
+You can [download the pretrained model here]()
+
+`` Accuracy on train set:  100% ``
+
+`` Accuracy on test set:  96.~% ``
+
 ## Dataset samples
 
 ![Mehrdad Mohammadian](https://raw.githubusercontent.com/mehrdad-dev/PDS/main/assets/1.png)
