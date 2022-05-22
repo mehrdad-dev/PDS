@@ -26,7 +26,7 @@ Run this notebook on Google Colab and test on proposed dataset.
 
 ## Results
 
-You can [download the pretrained model here]()
+You can [download the pretrained model here](https://github.com/mehrdad-dev/PDS/tree/main/model)
 
 `` Accuracy on train set:  100% ``
 
