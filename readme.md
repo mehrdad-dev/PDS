@@ -11,7 +11,7 @@ They proposed a dataset that includes wave and spiral sketches from healthy and 
 
 ## About this project
 
-I provied a method by using Zero-Shot learning to detect Parkinson based on the proposed dataset in [paper](https://www.frontiersin.org/articles/10.3389/fneur.2017.00435/full).
+I provied a method by using Few-Shot learning to detect Parkinson based on the proposed dataset in [paper](https://www.frontiersin.org/articles/10.3389/fneur.2017.00435/full).
 
 
 ## Dataset
