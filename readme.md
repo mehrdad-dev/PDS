@@ -46,3 +46,12 @@ You can [download the pretrained model here](https://github.com/mehrdad-dev/PDS/
 
 ## Based on
 - [Easy Few-Shot Learning](https://github.com/sicara/easy-few-shot-learning)
+
+
+
+
+<a href="https://www.buymeacoffee.com/mehrdaddev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<a href="http://www.coffeete.ir/mehrdad-dev">
+       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+</a>
